@@ -1,2 +1,3 @@
 # Mobot-Project
-Arduino code for control of mobot so that it can follow lines based on encoder and infrared sensor data.
+Arduino code for control of mobot
+Follows lines using PID motor control based on infrared sensor data.
